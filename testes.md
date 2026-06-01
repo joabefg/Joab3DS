@@ -59,3 +59,22 @@ bilheteria (
     valor DECIMAL(10, 2) NN
 )
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+resultados = [
+    [ [roda gigante] [Funcionando] ]
+    [ [montanha russa] [Manutenção] ]
+]
